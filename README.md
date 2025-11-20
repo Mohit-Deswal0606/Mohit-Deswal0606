@@ -1,3 +1,8 @@
+<img align="right" alt="coding" 
+src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="mohit-deswal0606" 
+src=https://github.com/Mohit-Deswal0606/Mohit-Deswal0606/blob/main/git.jpg
+<p align="center"><img align="center"alt="coding" /> </p>
+
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">The art and science of extracting knowledge from data.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="mohit-deswal0606" 
