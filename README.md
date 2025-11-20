@@ -11,6 +11,20 @@
 - 📫 How to reach me **deswalmohit315@gmail.com**
 
 - ⚡ Fun fact **Torture the data, and it will confess to anything**
+-  Clean & Professional
+
+👋 Data Scientist building machine learning models, analytics pipelines, and data-driven solutions.
+🔧 Python | SQL | ML | Deep Learning | MLOps
+📊 Turning data into products, insights, and impact
+
+
+Creative & Personality-Driven
+
+🧠 Data Scientist
+🔍 Pattern finder. 
+📈 Model builder. 
+🛠️ Code tinkerer.
+Always learning, always experimenting
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
