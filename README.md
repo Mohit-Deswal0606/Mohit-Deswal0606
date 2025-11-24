@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/Mohit-Deswal0606/Mohit-Deswal0606/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Passionate Data Scientist | From Raw Data to Smart Decisions.</h3>
