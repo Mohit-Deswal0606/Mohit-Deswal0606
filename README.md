@@ -1,4 +1,4 @@
-
+![logo]
 
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Passionate Data Scientist | From Raw Data to Smart Decisions.</h3>
