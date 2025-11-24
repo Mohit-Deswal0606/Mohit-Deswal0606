@@ -17,7 +17,7 @@
 
 👋 Data Scientist building machine learning models, analytics pipelines, and data-driven solutions.
 🔧 Python | SQL | ML | Deep Learning | MLOps
-📊 Turning data into products, insights, and impact
+## 📊 Turning data into products, insights, and impact
 
 
 Creative & Personality-Driven
@@ -29,13 +29,13 @@ Creative & Personality-Driven
 Always learning, always experimenting
 
 
-📊 What I Do
+## 📊 What I Do
 - Build predictive & statistical models  
 - Create end-to-end data & ML pipelines  
 - Perform EDA, visualization, and feature engineering  
 - Deploy ML models with scalable workflows 
 
-🚀 About Me
+## 🚀 About Me
 - 🔍 I love finding patterns in data  
 - 📈 I build ML models and analytical tools  
 - 🧩 Solving real-world problems with data  
